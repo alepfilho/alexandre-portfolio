@@ -1,0 +1,78 @@
+#quem-sou:after {
+  position: absolute;
+  content: "";
+  width: 2px;
+  height: 30%;
+  background: #000;
+  left: 45%;
+  bottom: 0;
+}
+
+#quem-sou:after {
+  position: absolute;
+  content: "";
+  width: 2px;
+  height: 30%;
+  background: #000;
+  left: 45%;
+  bottom: 0;
+}
+
+#quem-sou:after {
+  position: absolute;
+  content: "";
+  width: 2px;
+  height: 30%;
+  background: #000;
+  left: 45%;
+  bottom: 0;
+}
+
+#criacoes:after {
+  position: absolute;
+  content: "#SocialMedia";
+  left: 37.5%;
+  bottom: 49%;
+  padding: 14px;
+  background: #fff;
+  font-size: 24px;
+  font-weight: bold;
+  transform: rotate(-90deg);
+  z-index: 1;
+}
+
+#criacoes:before {
+  position: absolute;
+  content: "";
+  left: 45%;
+  width: 2px;
+  height: 100%;
+  bottom: 0;
+  background: #000;
+  z-index: 0;
+}
+
+#dev:after {
+  position: absolute;
+  content: "#Dev";
+  left: 41.2%;
+  bottom: 35%;
+  padding: 14px;
+  background: #fff;
+  font-size: 24px;
+  font-weight: bold;
+  transform: rotate(-90deg);
+  z-index: 1;
+}
+
+#dev:before {
+  position: absolute;
+  content: "";
+  left: 45%;
+  width: 2px;
+  height: 100%;
+  bottom: 0;
+  background: #000;
+  z-index: 0;
+}
+
